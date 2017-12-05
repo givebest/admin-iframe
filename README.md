@@ -41,3 +41,8 @@
 #### iframe 自适应调试 (iframeResizer.js)
 
 * 仓库：[https://github.com/davidjbradshaw/iframe-resizer](https://github.com/davidjbradshaw/iframe-resizer)
+
+
+## License
+
+[GPL-3.0](./LICENSE) © 2017 [givebest](https://github.com/givebest)
