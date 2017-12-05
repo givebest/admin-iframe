@@ -1,0 +1,43 @@
+    .header {
+      position: fixed;
+      left: 0;
+      top: 0;
+      color: #fff;
+      background-color: #191818;
+      padding: 10px 20px;
+      width: 100%;
+      text-align: center;
+    }
+
+    .footer {
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      padding: 10px 20px;
+      width: 100%;
+      color: #fff;
+      text-align: center;
+      background-color: #191818;
+    }
+
+    .side {
+      position: fixed;
+      float: left;
+      padding: 56px 10px;
+      width: 200px;
+      min-height: 100%;
+    }
+
+    .content {
+      padding: 56px 10px 60px 220px;
+    }
+
+    .content--container {
+      padding: 10px;
+      border: 2px solid #ccc;
+      border-radius: 10px;
+      background-color: #fff;
+    }
+.iframe-- {
+  width: 100%;
+}
